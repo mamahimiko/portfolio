@@ -3,6 +3,7 @@ import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { portfolioList } from "./portfolioList";
 import Image from 'next/image'
 import { Button } from "@/components/ui/button";
+import { GitBranch } from "lucide-react";
 
 export default function PortfolioCard() {
 
@@ -29,7 +30,7 @@ export default function PortfolioCard() {
         {skill.skills}
         </div>
         <div className="flex justify-start">
-        <Button variant="outline">Github</Button>
+        <Link className={buttonVariants({ variant: "outline" })} href={`/${skill.githubURL}` }  target="_blank">Github</Link>
         </div>
       </CardContent>
     </Card>

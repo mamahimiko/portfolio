@@ -13,7 +13,7 @@ export const portfolioList = [
     discription: "A dash bord App which is used weatherAPI, NEWS API and Instagram API.",
     imageId: "mahootop.png",
     skills: "ReactJS | tailwind",
-    githubURL: ""
+    githubURL: "https://github.com/mamahimiko/myDashBoard.git"
   },
   {
     id: 2,
@@ -21,6 +21,6 @@ export const portfolioList = [
     discription: "This page.",
     imageId: "portfolio.png",
     skills: "Next.js | tailwind",
-    githubURL: ""
+    githubURL: "https://github.com/mamahimiko/portfolio.git"
   },
 ];
