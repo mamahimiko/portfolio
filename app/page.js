@@ -112,8 +112,8 @@ export default function Home() {
                       <p>
                         I started learning frontend development on my own,
                         driven by a love for design and problem-solving. While I
-                        don’t have professional experience as an engineer yet,
-                        I’ve built several apps independently and with the
+                        do not have professional experience as an engineer yet,
+                        I have built several apps independently and with the
                         support of my partner (a professional developer), using
                         a monorepo setup, pull requests, and code reviews.
                       </p>
