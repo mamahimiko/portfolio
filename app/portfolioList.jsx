@@ -18,7 +18,7 @@ export const portfolioList = [
   {
     id: 2,
     title: "Portfolio",
-    discription: "This page. I used some packages such as React Scroll and Motion for React for putting into exciting motion. Fully responsive design. Original profile icon. Secure mail form",
+    discription: "This page. I used some packages such as React Scroll and Motion for React for putting into exciting motion. Fully responsive design. Original profile icon. Secure mail form.",
     imageId: "portfolio.png",
     skills: "Next.js | tailwind",
     githubURL: "mamahimiko/portfolio.git"
