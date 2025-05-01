@@ -104,18 +104,18 @@ export default function Home() {
                   <div className="mb-6 space-y-4">
                     <div className="pb-7">
                       <p>
-                        I'm a passionate and curious aspiring frontend developer
-                        based in Sweden, transitioning from a background in
-                        sales and marketing in Japan.
+                        I&apos;m passionate and curious aspiring frontend
+                        developer based in Sweden, transitioning from a
+                        background in sales and marketing in Japan.
                       </p>
                       <br />
                       <p>
                         I started learning frontend development on my own,
                         driven by a love for design and problem-solving. While I
-                        do not have professional experience as an engineer yet,
-                        I have built several apps independently and with the
-                        support of my partner (a professional developer), using
-                        a monorepo setup, pull requests, and code reviews.
+                        don&apos;t have professional experience as an engineer
+                        yet, I&apos;ve built several apps independently and with
+                        the support of my partner (a professional developer),
+                        using a monorepo setup, pull requests, and code reviews.
                       </p>
                       <br />
                       <p>
