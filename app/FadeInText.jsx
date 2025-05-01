@@ -2,7 +2,7 @@
 
 import { motion } from "motion/react";
 import { useInView } from "react-intersection-observer";
-import Image from "next/image";
+
 
 export default function FadeInText({ delay = 0, className = "" }) {
     const { ref, inView } = useInView({

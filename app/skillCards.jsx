@@ -4,7 +4,7 @@ import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 
 export default function SkillCard() {
     return (
-      <Card className="bg-yellow-50">
+      <Card className="bg-yellow-50 w-full max-w-[500px]">
         <CardHeader>
           <CardTitle className="flex justify-center">My Experiences</CardTitle>
         </CardHeader>
